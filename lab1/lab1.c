@@ -10,7 +10,7 @@
 
 int main (int argc, char *argv[]) {
 
-    // χωρίς όρισμα ή πάνω από 2 ορίσματα
+    
     if (argc != 2) {
         printf("Usage: ./a.out filename\n");
         exit(1);
